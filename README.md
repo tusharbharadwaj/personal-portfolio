@@ -1,6 +1,6 @@
 # Personal Portfolio Website - *portfolio website*
 
-**Personal Portfolio** is a tip calculator application for iOS.
+**Personal Portfolio** 
 
 Submitted by: **Tushar Bharadwaj**
 
